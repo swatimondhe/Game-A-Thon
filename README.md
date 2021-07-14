@@ -1,7 +1,7 @@
 # Game-A-Thon
-##Name-Swati Madhusudan Mondhe
+## Name-Swati Madhusudan Mondhe
 
-###Problem Statement 1:Write a code to multiply two integer
+### Problem Statement 1:Write a code to multiply two integer
 ```c
 #include <stdio.h>
 int main() {
@@ -14,7 +14,7 @@ int main() {
   return 0;
 }
 ```
-###Problem Statement 2:Write a code to sum of two digit
+### Problem Statement 2:Write a code to sum of two digit
 ```c
 #include <stdio.h>
 int main() {    
